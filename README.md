@@ -1,2 +1,2 @@
 # telebot-control
-[telebota](icon.png)
+![telebota](icon.png)
